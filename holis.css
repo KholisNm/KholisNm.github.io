@@ -1,0 +1,47 @@
+.navbar{
+    background-color: rgb(139, 0, 121);
+}
+.banner{
+    background-color: rgb(243, 0, 211);
+    margin-top: 20px;
+}
+.promo{
+    margin-top: 100px;
+}
+.wifi{
+    color: rgb(139, 0, 121);
+}
+.h5{
+    color: rgb(139, 0, 121);
+    margin-top: 5px;
+}
+.jududl{
+    margin-top: 30px
+}
+p{
+    font-family: Helvetica;
+}
+.isi{
+    position: relative;
+    
+}
+
+.foot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+.myrepublic{
+    width: 300px;
+    margin-bottom: -70px;
+}
+.img{
+   width: 30px;
+   margin-left: 100px;
+   margin-right: 100px;
+
+}
